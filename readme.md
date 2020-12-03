@@ -1,6 +1,6 @@
 # teksto analize
 
-projektas skirtas nalizuoti duota treksta, norint issiaiskinti kaip kis sadarytas
+projektas skirtas anlizuoti duota teksta, norint issiaiskinti kaip jis sadarytas
 paragrafai, zadziai, sakiniai, ju kiekis
 
 # features galimi metodau (kind of)
